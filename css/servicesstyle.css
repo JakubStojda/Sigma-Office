@@ -1,0 +1,28 @@
+header {
+    background: url("../img/hero2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 46vh;
+}
+.title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:85%;
+}
+.title h2{
+    color:#fff;
+    text-transform: capitalize;
+    font-size:50px;
+    font-weight: 800;
+}
+.servicestitle{
+    margin-top: -95px;
+}
+.servicecards{
+    width:90vw;
+    margin-left: auto;
+    margin-right: auto;
+}
